@@ -1,9 +1,12 @@
 {
-  "name": "example-package",
-  "version": "1.0.0",
-  "displayName": "",
-  "description": "",
+  "name": "gomoru.su.ultimate-facial-controller",
+  "version": "0.1.0",
+  "displayName": "Ultimate Facial Controller",
+  "description": "ULTIMATE",
   "url" : "",
   "vpmDependencies" : {
+    "com.vrchat.avatars" : ">=3.2.0",
+    "nadena.dev.modular-avatar" : "^1.8.0-beta.0",
+    "nadena.dev.ndmf" : "^1.0.1"
   }
 }

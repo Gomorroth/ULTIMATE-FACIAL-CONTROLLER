@@ -1,0 +1,19 @@
+{
+    "name": "gomoru.su.ultimate-facial-controller.editor",
+    "references": [
+        "GUID:62ced99b048af7f4d8dfe4bed8373d76",
+        "GUID:fc900867c0f47cd49b6e2ae4ef907300",
+        "GUID:b176baf74c0b72f4aba063651cb3e5f4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
